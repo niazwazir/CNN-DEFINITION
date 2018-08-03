@@ -1,0 +1,2 @@
+# CNN-DEFINITION
+Standard Definitions
